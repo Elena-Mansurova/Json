@@ -1,0 +1,5 @@
+{
+  "Bug_title":"QR code is not displayed in Dropdown ",
+  "Steps_reproduce":"1. Navigate to sitename; 2. Tap [Download] button",
+  "Actual_result":"QR code not displayed"
+}
