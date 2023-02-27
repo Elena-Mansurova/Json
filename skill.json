@@ -1,0 +1,13 @@
+{
+	"Skills gained on the course":{
+		"Test theory":"Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования",
+		"HTTP":"HTTP методы запросов на сервер, коды ответов сервера, структуры запросов и ответов",
+		"API":"Тестирование API через Postman",
+		"Mobile testing":"Особенности iOS, Android;сборка iOS и Android приложений, настройка проксим и vpn",
+		"Bush script":"автоматизация рутинных задач на сервере",
+		"SQL":"Create, Delete, Drop, Insert Into, Select, From, Where, Join"
+
+	}
+
+
+}
